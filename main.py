@@ -42,4 +42,4 @@ def main():
         print() # print a new line after the response
 
 if __name__ == "__main__":
-    main() # run the main function
+    main() 
